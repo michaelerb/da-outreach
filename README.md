@@ -1,2 +1,2 @@
 # da-outreach
-Outreach materials for paleoclimate data assimilation.
+Educational materials about paleoclimate data assimilation.
