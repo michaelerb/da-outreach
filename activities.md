@@ -18,9 +18,14 @@ Have fun!
 
 ### Notebooks
 
-<a href="activities/Notebook1_intro_to_Jupyter_notebooks.ipynb">Notebook 1</a>: Introduction to Jupyter Notebooks
-<a href="activities/Notebook2_proxy_data.ipynb">Notebook 2</a>: Loading and Visualizing Proxy Data
-<a href="activities/Notebook3_DA_reconstructions.ipynb">Notebook 3</a>: Analyzing Existing DA Paleoclimate Reconstructions
-<a href="activities/Notebook4_exploring_paleo_DA.ipynb">Notebook 4</a>: Exploring Paleoclimate Data Assimilation
-<> (<a href="activities/Notebook5_running_DA_code.ipynb">Notebook 5</a>: Running DA code to create a new Holocene reconstruction)
-<> (<a href="activities/Notebook6_explore_something_new.ipynb">Notebook 6</a>: Explore something new!)
+<a href="notebooks/Notebook1_intro_to_Jupyter_notebooks.ipynb">Notebook 1</a>: Introduction to Jupyter Notebooks
+
+<a href="notebooks/Notebook2_proxy_data.ipynb">Notebook 2</a>: Loading and Visualizing Proxy Data
+
+<a href="notebooks/Notebook3_DA_reconstructions.ipynb">Notebook 3</a>: Analyzing Existing DA Paleoclimate Reconstructions
+
+<a href="notebooks/Notebook4_exploring_paleo_DA.ipynb">Notebook 4</a>: Exploring Paleoclimate Data Assimilation
+
+[//]: # (<a href="notebooks/Notebook5_running_DA_code.ipynb">Notebook 5</a>: Running DA code to create a new Holocene reconstruction)
+
+[//]: # (<a href="notebooks/Notebook6_explore_something_new.ipynb">Notebook 6</a>: Explore something new!)
