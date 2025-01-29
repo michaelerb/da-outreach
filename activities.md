@@ -20,7 +20,7 @@ Have fun!
 
 <a href="notebooks/Notebook1_intro_to_Jupyter_notebooks.ipynb">Notebook 1</a>: Introduction to Jupyter Notebooks
 
-[//]: # (<a href="notebooks/Notebook2_proxy_data.ipynb">Notebook 2</a>: Loading and Visualizing Proxy Data)
+<a href="notebooks/Notebook2_proxy_data.ipynb">Notebook 2</a>: Loading and Visualizing Proxy Data
 
 [//]: # (<a href="notebooks/Notebook3_DA_reconstructions.ipynb">Notebook 3</a>: Analyzing Existing DA Paleoclimate Reconstructions)
 
