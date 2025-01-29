@@ -22,7 +22,7 @@ Have fun!
 
 <a href="notebooks/Notebook2_proxy_data.ipynb">Notebook 2</a>: Loading and Visualizing Proxy Data
 
-[//]: # (<a href="notebooks/Notebook3_DA_reconstructions.ipynb">Notebook 3</a>: Analyzing Existing DA Paleoclimate Reconstructions)
+<a href="notebooks/Notebook3_DA_reconstructions.ipynb">Notebook 3</a>: Analyzing Existing DA Paleoclimate Reconstructions
 
 [//]: # (<a href="notebooks/Notebook4_exploring_paleo_DA.ipynb">Notebook 4</a>: Exploring Paleoclimate Data Assimilation)
 
