@@ -26,6 +26,6 @@ Have fun!
 
 <a href="notebooks/Notebook4_exploring_paleo_DA.ipynb">Notebook 4</a>: Exploring Paleoclimate Data Assimilation
 
-[//]: # (<a href="notebooks/Notebook5_running_DA_code.ipynb">Notebook 5</a>: Running DA code to create a new Holocene reconstruction)
+<a href="notebooks/Notebook5_running_DA_code.ipynb">Notebook 5</a>: Running DA code to create a new Holocene reconstruction
 
 [//]: # (<a href="notebooks/Notebook6_explore_something_new.ipynb">Notebook 6</a>: Explore something new!)
